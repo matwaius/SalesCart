@@ -1,4 +1,4 @@
-# projetov2
+# Project made to add products to a shopping cart, select the customer, and send it to the back-end for recording.
 
 ## Project setup
 ```
